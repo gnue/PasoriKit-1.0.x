@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SuicaExample' target in the 'SuicaExample' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

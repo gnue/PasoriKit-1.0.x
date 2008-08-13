@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PasoriKitExample' target in the 'PasoriKitExample' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
