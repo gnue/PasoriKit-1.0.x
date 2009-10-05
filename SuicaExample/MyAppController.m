@@ -322,7 +322,7 @@
 
 
 /// ⑤ Felicaデータの受信
-- (BOOL)felicaReceive:(USBDevicePasori *)pasori data:(felica_ans_t *)ans numBytesRead:(UInt32)numBytesRead
+- (BOOL)felicaReceive:(USBDevicePasori *)pasori data:(felica_ans_t *)ans numBytesRead:(uint32_t)numBytesRead
 {
 	BOOL	handled = NO;
 
@@ -435,13 +435,13 @@
 #pragma mark -
 
 
-- (int)numberOfRowsInTableView:(NSTableView *)tableView
+- (NSInteger)numberOfRowsInTableView:(NSTableView *)tableView
 {
 	return [suicaValues count];
 }
 
 
-- (id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(int)row
+- (id)tableView:(NSTableView *)tableView objectValueForTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row
 {
 	return [[suicaValues objectAtIndex:row] objectForKey:[tableColumn identifier]];
 }

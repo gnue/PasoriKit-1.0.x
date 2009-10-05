@@ -3,7 +3,7 @@
 //  PaSoRi
 //
 //  Created by GNUE(鵺) on 07/05/05.
-//  Copyright 2007 __MyCompanyName__. All rights reserved.
+//  Copyright 2007 Makoto Nukui. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

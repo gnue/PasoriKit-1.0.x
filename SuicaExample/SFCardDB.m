@@ -51,7 +51,7 @@ static SFCardDB *	sharedSFCardDB = nil;
     return self;
 }
  
-- (unsigned)retainCount
+- (NSUInteger)retainCount
 {
     return UINT_MAX;  // 解放できないオブジェクトであることを示す
 }

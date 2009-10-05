@@ -6,9 +6,20 @@ FeliCaカード（Suica, PASMO, Edy等）を読取るためのフレームワー
 
 【動作環境】
 
-・Mac OS X 10.4 以上
+・Mac OS X 10.5 以上
 ・Xcode 3.0 以上
 ・PaSoRi RC-S320
+
+　※現バージョンは　PaSoRi RC-S330 では動作いたしません
+
+
+【更新履歴】
+
+  [2009-10-06] 1.0.1    動作環境を Mac OS X 10.5 以上に変更
+                        USBDeviceクラスに reopenメソッドを追加。スリープ解除からの自動復帰サポート
+                        x86_64バイナリに対応
+                        PASORI_STATE_POLLING_DONE で処理をしなかったときに PASORI_STATE_IDLE に状態遷移しない問題を修正
+  [2008-08-14] 1.0      最初の公開バージョン
 
 
 【利用方法】

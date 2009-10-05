@@ -14,7 +14,7 @@
 #define	PASORIKIT_SUICA_H
 
 
-#include <stdlib.h>
+#include <stdint.h>
 
 
 #define FELICA_POLLING_SUICA			0x0003		///< Suicaシステムコード

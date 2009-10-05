@@ -14,7 +14,7 @@
 #define	PASORIKIT_EDY_H
 
 
-#include <stdlib.h>
+#include <stdint.h>
 
 
 #define FELICA_POLLING_EDY			0xFE00		///< Edyシステムコード

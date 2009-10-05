@@ -14,7 +14,7 @@
 #define	FELICA_H
 
 
-#include <stdlib.h>
+#include <stdint.h>
 
 
 #define FELICA_POLLING_ANY						0xFFFF		///< すべて

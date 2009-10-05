@@ -3,7 +3,7 @@
 //  PasoriKit
 //
 //  Created by GNUE(鵺) on 08/04/01.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
+//  Copyright 2008 Makoto Nukui. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
