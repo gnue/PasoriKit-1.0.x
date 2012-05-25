@@ -16,6 +16,7 @@ Cocoaアプリで FeliCaリーダ "PaSoRi" を使うためのフレームワー�
 
 == 新着情報 ==
 
+ * [2012-05-25] github に移動
  * [2009-10-06] バージョン 1.0.1 を公開しました
  * [2008-08-14] Cocoa Life Vo.4 の発売に合わせて PasoriKit を公開しました
  * [2008-08-14] 8/16(土) コミケ２日目 西-"く"13a にて Cocoa Life Vo.4 が販売されます
@@ -60,7 +61,7 @@ PasoriKitフレームワーク
 
 [最新版]
 
-  * [browser:mac/PaSoRi/trunk Subversion レポジトリを参照]
+  * [https://github.com/gnue/PasoriKit-1.0.x github レポジトリを参照]
 
 [v1.0.1]
 
@@ -77,14 +78,6 @@ PasoriKitフレームワーク
     ([http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/SuicaExample1.0app.dmg 実行ファイル])
   * [http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0.dmg Edy利用履歴サンプル 1.0]
     ([http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0app.dmg 実行ファイル])
-
-== Subversion レポジトリ ==
-
-svn co svn://so-kukan.com/tools/mac/PaSoRi/trunk から最新のソースコードを取得できます。
-
-{{{
-$ svn co svn://so-kukan.com/tools/mac/PaSoRi/trunk PaSoRi
-}}}
 
 == 作者 ==
 
