@@ -67,19 +67,19 @@ PasoriKitフレームワーク
 
 [v1.0.1]
 
-* [ParoriKitフレームワーク 1.0.1](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/PasoriKit1.0.1.dmg)
-* [Suica利用履歴サンプル 1.0.1](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/SuicaExample1.0.1.dmg)
-  ([実行ファイル](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/SuicaExample1.0.1app.dmg))
-* [Edy利用履歴サンプル 1.0.1](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0.1.dmg)
-  ([実行ファイル](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0.1app.dmg))
+* [ParoriKitフレームワーク 1.0.1](https://github.com/downloads/gnue/PasoriKit-1.0.x/PasoriKit1.0.1.dmg)
+* [Suica利用履歴サンプル 1.0.1](https://github.com/downloads/gnue/PasoriKit-1.0.x/SuicaExample1.0.1.dmg)
+  ([実行ファイル](https://github.com/downloads/gnue/PasoriKit-1.0.x/SuicaExample1.0.1app.dmg))
+* [Edy利用履歴サンプル 1.0.1](https://github.com/downloads/gnue/PasoriKit-1.0.x/EdyExample1.0.1.dmg)
+  ([実行ファイル](https://github.com/downloads/gnue/PasoriKit-1.0.x/EdyExample1.0.1app.dmg))
 
 [v1.0]
 
-* [ParoriKitフレームワーク 1.0](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/PasoriKit1.0.dmg)
-* [Suica利用履歴サンプル 1.0](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/SuicaExample1.0.dmg)
-  ([実行ファイル](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/SuicaExample1.0app.dmg))
-* [Edy利用履歴サンプル 1.0](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0.dmg)
-  ([実行ファイル](http://trac.so-kukan.com/tools/attachment/wiki/PasoriKit/EdyExample1.0app.dmg))
+* [ParoriKitフレームワーク 1.0](https://github.com/downloads/gnue/PasoriKit-1.0.x/PasoriKit1.0.dmg)
+* [Suica利用履歴サンプル 1.0](https://github.com/downloads/gnue/PasoriKit-1.0.x/SuicaExample1.0.dmg)
+  ([実行ファイル](https://github.com/downloads/gnue/PasoriKit-1.0.x/SuicaExample1.0app.dmg))
+* [Edy利用履歴サンプル 1.0](https://github.com/downloads/gnue/PasoriKit-1.0.x/EdyExample1.0.dmg)
+  ([実行ファイル](https://github.com/downloads/gnue/PasoriKit-1.0.x/EdyExample1.0app.dmg))
 
 #### 作者
 
